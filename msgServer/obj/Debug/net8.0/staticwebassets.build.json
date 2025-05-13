@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FmYu1bDZFjh4aAeQZva/+Xyul1zcnxnEwGMIBQ4qmwc=",
+  "Source": "msgServer",
+  "BasePath": "_content/msgServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
